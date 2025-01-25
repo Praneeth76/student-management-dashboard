@@ -1,6 +1,10 @@
 # Student Management Dashboard
 
 This is a **Student Management Dashboard** built with **React**, **Firebase**, and **Vite**. It features user authentication, student data management, and a clean, modern UI.
+**Demo Link** : https://student-management-dashboard-nu.vercel.app/
+Use the given email and password to login
+Email : admin@123.com
+password : admin@123
 
 ## Features
 
